@@ -1,0 +1,34 @@
+# -----------------------------
+# Assignment 1 data handling
+# -----------------------------
+
+# Ignore all data by default
+Assignment-1/data/**
+
+# Allow directory structure
+!Assignment-1/data/
+!Assignment-1/data/raw/
+!Assignment-1/data/raw/mobile_phone_activity/
+
+# Ignore everything inside mobile_phone_activity
+Assignment-1/data/raw/mobile_phone_activity/*
+
+# BUT explicitly allow the required CSV files
+!Assignment-1/data/raw/mobile_phone_activity/sms-call-internet-mi-2013-11-02.csv
+!Assignment-1/data/raw/mobile_phone_activity/sms-call-internet-mi-2013-11-04.csv
+!Assignment-1/data/raw/mobile_phone_activity/sms-call-internet-mi-2013-11-06.csv
+
+# Ignore archives
+*.zip
+
+# -----------------------------
+# Jupyter / Python
+# -----------------------------
+.ipynb_checkpoints/
+*.ipynb~
+
+# -----------------------------
+# OS files
+# -----------------------------
+Thumbs.db
+.DS_Store
