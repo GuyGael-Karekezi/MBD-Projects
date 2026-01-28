@@ -37,7 +37,7 @@ Assignment-1/data/raw/mobile_phone_activity/
 The notebook assumes this directory structure when loading the data.
 
 
-5. Run the notebook located in `Assignment-1/notebooks/iguygael.ipynb`.
+Run the notebook located in `Assignment-1/notebooks/iguygael.ipynb`.
 
 All preprocessing, feature engineering, and analysis steps are fully documented
 and executed within the notebook.
