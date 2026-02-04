@@ -105,7 +105,7 @@ This approach kept the analysis efficient and explicit, which is especially impo
 * **Missing values were widespread**, especially in SMS and call-related columns, and were successfully handled using mean interpolation.
 * **17:00 (5 PM)** is the most common peak hour for call activity across all grids, with other busy periods around **11:00** and **18:00**.
 * The lowest overall activity occurs around **03:00 AM**, reflecting reduced nighttime usage.
-* Approximately **78% of total activity happens during daytime**, while **22% occurs at night**.
+* Approximately **73.5% of total activity happens during daytime**, while **26.5% occurs at night**.
 * **Domestic calls show strong daily patterns**, peaking during business and evening hours.
 * **International calls remain relatively stable throughout the day**, indicating they are less sensitive to local working hours.
 * **International communication dominates overall volume**, accounting for about **66.9% of calls** and **75.0% of SMS traffic**.
