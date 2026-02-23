@@ -1,16 +1,12 @@
-\# Mobile Big Data Projects
+# Mobile Big Data Projects
 
-
-
-This repository contains assignments completed for the
-
+This repository contains projects completed for the
 Mobile Big Data Analytics and Management course.
 
+## Projects
 
-
-\## Assignments
-
-\- Assignment-1: Mobile phone activity analysis
+- Project 1: Mobile Phone Activity Analysis (`Project-1-Mobile-Phone-Activity-Analysis/`)
+- Project 2: Social Media Extremism Detection (`Project-2-Social-Media-Extremism-Detection/`)
 
 
 

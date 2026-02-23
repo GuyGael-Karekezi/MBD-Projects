@@ -1,7 +1,7 @@
 
 ---
 
-# Mobile Big Data (MBD) – Assignment 1
+# Mobile Big Data (MBD) – Project 1
 
 ## Course
 
@@ -121,9 +121,9 @@ Due to GitHub file size limitations, the raw datasets are **not included** in th
 1. Download the dataset from Kaggle:
    *Telecom Italia Mobile Phone Activity Dataset*
 2. Place the extracted files in:
-   `Assignment-1/data/raw/mobile_phone_activity/`
+   `Project-1-Mobile-Phone-Activity-Analysis/data/raw/mobile_phone_activity/`
 3. Run the notebook:
-   `Assignment-1/notebooks/iguygael.ipynb`
+   `Project-1-Mobile-Phone-Activity-Analysis/notebooks/iguygael.ipynb`
 
 All preprocessing steps, feature engineering, and analyses are fully documented and executable within the notebook.
 

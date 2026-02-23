@@ -1,4 +1,4 @@
-# Assignment 2 Report - Social Media Extremism Detection
+# Project 2: Social Media Extremism Detection
 
 ## Team
 - Lynne Chepkwony (lchepkwo)
