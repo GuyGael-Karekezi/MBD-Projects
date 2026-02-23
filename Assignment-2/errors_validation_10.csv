@@ -1,0 +1,11 @@
+error_id,error_type,original_text,true_label,predicted_label,correct
+1,False Positives,whatever have not forgotten about the centralparkfive let us hope you haven t trump took ads out to kill innocent men no matching dna for accused crime and eventually released as innocent fuck trump hesthefuckingdevil postrump,NON_EXTREMIST,EXTREMIST,False
+2,False Negatives,pink champagne for my boot hang she is a bad bitch i hope that she do not trade me,EXTREMIST,NON_EXTREMIST,False
+3,False Positives,boycottlevis since the late s levis has used its name and resources to attack gun rights in the company gave to gun control group pax followed by a donation in and another in,NON_EXTREMIST,EXTREMIST,False
+4,False Negatives,one of the biggest problems is that the average black is not bright and doesn t know what fascism is and that is a big problem i would really love it if this lovely community contributed their own thoughts or examples from me a supposed nazi which is a term that has no meaning lol,EXTREMIST,NON_EXTREMIST,False
+5,False Positives,when i worked at walmart i would say what she said or if they complained i would be like well you can come to my apartment to hang to see how poor i am working here they would actually panic,NON_EXTREMIST,EXTREMIST,False
+6,False Negatives,hey you fucking vagina ass bitch do the world a favor and fucking kill yourself at least you will be great to something and not fuck that up at least whatever hope you won t,EXTREMIST,NON_EXTREMIST,False
+7,False Positives,when you decided to slaughter goat or ram to rename your self,NON_EXTREMIST,EXTREMIST,False
+8,False Negatives,far right cell planned attack on jewish event in paris resist resist trump fuck trump,EXTREMIST,NON_EXTREMIST,False
+9,False Negatives,i am damn if i go over dea and get my ass blown bomb up i know what it looks like bitch i play water pistol call of duty frequently,EXTREMIST,NON_EXTREMIST,False
+10,False Positives,he made it ok to be a nazi fuck trump hope he spends his next birthday and all the ones after that in prison,NON_EXTREMIST,EXTREMIST,False
