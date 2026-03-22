@@ -1,7 +1,7 @@
-﻿# Assignment 3 Write-Up
+﻿# Project 3 Write-Up
 
 ## Overview
-Assignment 3 extends the extremism-detection work from Assignment 2 into a multi-part moderation pipeline:
+Project 3 extends the extremism-detection work from Assignment 2 into a multi-part moderation pipeline:
 - Part A: violent extremism versus non-violent extremism classification
 - Part B: prompt-based severity scoring using zero-shot and chain-of-thought prompting
 - Part C: persona-driven counter-narrative generation and evaluation

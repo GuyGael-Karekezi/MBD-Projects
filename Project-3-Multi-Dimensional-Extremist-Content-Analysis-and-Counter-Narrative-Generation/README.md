@@ -1,4 +1,4 @@
-﻿# Assignment 3 README
+﻿# Project 3 README
 
 ## Team
 - Lynne Chepkwony (`lchepkwo`)
@@ -7,7 +7,7 @@
 - Ishimwe Karekezi Guy Gael (`iguygael`)
 
 ## Main Notebook
-- `MBD_Assignment_3.ipynb`
+- `MBD_Project_3.ipynb`
 
 This notebook is designed to run in **Google Colab**.
 
@@ -63,7 +63,7 @@ These files are especially helpful for quick reruns:
   Purpose: preserves the final Part A balanced classification file
 
 ## Full Run Instructions
-1. Open `MBD_Assignment_3.ipynb` in Google Colab.
+1. Open `MBD_Project_3.ipynb` in Google Colab.
 2. Add Colab Secrets:
    - `CMU_API_KEY`
    - `KAGGLE_USERNAME`
@@ -78,8 +78,8 @@ These files are especially helpful for quick reruns:
 - Some old output cells may still display historical Colab paths from earlier runs, but the active code now uses local runtime files.
 
 ## Deliverables
-Primary deliverables for Assignment 3 include:
-- `MBD_Assignment_3.ipynb`
+Primary deliverables for Project 3 include:
+- `MBD_Project_3.ipynb`
 - `ve_nve_classifications.csv`
 - required analysis CSV files
 - this README / write-up

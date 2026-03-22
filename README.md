@@ -7,7 +7,7 @@ Mobile Big Data Analytics and Management course.
 
 - Project 1: Mobile Phone Activity Analysis (`Project-1-Mobile-Phone-Activity-Analysis/`)
 - Project 2: Social Media Extremism Detection (`Project-2-Social-Media-Extremism-Detection/`)
-- Project 3: Multi-Dimensional Extremist Content Analysis and Counter-Narrative Generation (`Assignment3/`)
+- Project 3: Multi-Dimensional Extremist Content Analysis and Counter-Narrative Generation (`Project-3-Multi-Dimensional-Extremist-Content-Analysis-and-Counter-Narrative-Generation/`)
 
 ## Colab Local Runtime In VS Code
 
